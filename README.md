@@ -10,7 +10,9 @@ This site is published at <https://eumaeus.github.io/uva_cex_ducat/>.
 - Translation Alignment:
 	- [Apuleius, *Metamorphosis* 3.16 Latin and (1566) English.](https://eumaeus.github.io/uva_cex_ducat/ducats/apuleius.html?urn=urn:cts:latinLit:phi1212.phi002.gaselee.token:3.16&urn=urn:cts:latinLit:phi1212.phi002.chin.token:3.16&urn=)
 - Alignment of Text to Commentary Text
-	- [ here ](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0557.tlg001.perseus-grc1:0-4&urn=urn:cts:greekLit:tlg0557.tlg002.perseus-grc1:1-33&urn=)
+	- [Weakness of existing UI](https://eumaeus.github.io/uva_cex_ducat/ducats/epictetus.html?urn=urn:cts:greekLit:tlg0557.tlg001.perseus-grc1:1.1-4.12&urn=urn:cts:greekLit:tlg0557.tlg002.perseus-grc1:1-20&urn=)
+	- [A better view](https://eumaeus.github.io/uva_cex_ducat/ducats/epictetus.html)
+	- [A code notebook might be the better way]()
 
 ## DUCAT Examples
 
