@@ -1,5 +1,7 @@
 # DUCAT and CEX
 
+This site is published at <https://eumaeus.github.io/uva_cex_ducat/>.
+
 ## The Problem of Alignment
 
 - Implicit alignment (prose works) via canonical citation. [Example: John 3.16](file:///Users/cblackwell/Desktop/uva_cex/cite-1.15.0.html)
