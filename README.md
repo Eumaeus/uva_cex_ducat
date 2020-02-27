@@ -8,10 +8,12 @@ This site is published at <https://eumaeus.github.io/uva_cex_ducat/>.
 
 ## Some Things You Can Do With CEX
 
-- Generate a facsimile view of an edited manuscript
-- Generate a reader’s view of a text with syntactic documentation
-- Generate a reader’s view of a text using machine-parsing
-- Provide a dynamic online web-app for browsing and analysis
+- [Generate a facsimile view of an edited manuscript](https://www.homermultitext.org/facsimiles/venetus-a-2020/pages/urn_cite2_hmt_msA-v1_154v.html)
+- [Provide flexible retrieval and searching from a complex dataset via a web-service](http://beta.hpcc.uh.edu/hmt/hmt-microservice/)
+- [Generate a reader’s view of a text with syntactic documentation](http://folio2.furman.edu/ot/pages/urn_cts_greekLit_tlg0011_tlg004_1-57.html)
+- [Make a lexicon](http://folio2.furman.edu/ot/pages/urn_cts_greekLit_tlg0011_tlg004_1-57.html) or a [dictionary](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n21247)
+- [Generate a reader’s view of a text using machine-parsing](https://furman-university-editions.github.io/Readers/Aristotle/Aristotle_Poetics4.html)
+- [Provide a dynamic online web-app for browsing and analysis](http://www.homermultitext.org/hmt-digital/index.html?urn=urn:cts:greekLit:tlg0012.tlg001.msA:12.1)
 
 
 ## The Problem of Alignment
