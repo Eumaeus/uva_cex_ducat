@@ -32,7 +32,7 @@ DUCAT is inspired by, and a follow-up to, [Ugarit](http://ugarit.ialigner.com), 
 - Alignment of Text to Commentary Text
 	- [Weakness of existing UI](https://eumaeus.github.io/uva_cex_ducat/ducats/epictetus.html?urn=urn:cts:greekLit:tlg0557.tlg001.perseus-grc1:1.1-4.12&urn=urn:cts:greekLit:tlg0557.tlg002.perseus-grc1:1-20&urn=)
 	- [A better view](https://eumaeus.github.io/uva_cex_ducat/ducats/epictetus.html?urn=urn:cts:greekLit:tlg0557.tlg001.perseus-grc1:1.29.41&urn=urn:cts:greekLit:tlg0557.tlg001.perseus-grc1:4.7.13&urn=urn:cts:greekLit:tlg0557.tlg002.perseus-grc1:17.1&urn=)
-	- [A code notebook might be the better way to interact with an alignment of the *Epitome* and the *Encheiridion*](https://hub-binder.mybinder.ovh/user/eumaeus-fucite-jupyter-iwl2r94p/notebooks/alignment/sandbox.ipynb). The good stuff is at the bottom. (If asked to set a kernel, choose "Scala 2.12") 
+	- [A code notebook might be the better way to interact with an alignment of the *Epitome* and the *Encheiridion*](https://hub.gke.mybinder.org/user/eumaeus-fucite-jupyter-tnbjzyq7/notebooks/alignment/sandbox.ipynb). The good stuff is at the bottom. (If asked to set a kernel, choose "Scala 2.12") 
 
 	The DUCAT Tool is merely one method for creating alignments, and merely one way to view them. With an aligned texts, in CEX format, you could, for example, create a [dynamic lexicon from a translation-alignment of Catullus](https://hub-binder.mybinder.ovh/user/eumaeus-fucite-jupyter-iwl2r94p/notebooks/alignment/sandbox2.ipynb). The good stuff is at the bottom! (If asked to set a kernel, choose "Scala 2.12")
 
