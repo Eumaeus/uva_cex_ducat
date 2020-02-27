@@ -9,6 +9,7 @@ CEX, the CITE Exchange Format, is a plain-text, self-describing format for seria
 ## Some Things You Can Do With CEX
 
 - [Generate a facsimile view of an edited manuscript](https://www.homermultitext.org/facsimiles/venetus-a-2020/pages/urn_cite2_hmt_msA-v1_154v.html)
+- [Allow you to document regions-of-interest on an image](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA154VN_0656@0.2469,0.3351,0.2181,0.09820&urn=urn:cite2:hmt:vaimg.2017a:VA154VN_0656@0.2522,0.4307,0.2181,0.2976)
 - [Provide flexible retrieval and searching from a complex dataset via a web-service](http://beta.hpcc.uh.edu/hmt/hmt-microservice/)
 - [Generate a reader’s view of a text with syntactic documentation](http://folio2.furman.edu/ot/pages/urn_cts_greekLit_tlg0011_tlg004_1-57.html)
 - [Make a lexicon](http://folio2.furman.edu/ot/pages/urn_cts_greekLit_tlg0011_tlg004_1-57.html) or a [dictionary](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n21247)
@@ -16,7 +17,11 @@ CEX, the CITE Exchange Format, is a plain-text, self-describing format for seria
 - [Provide a dynamic online web-app for browsing and analysis](http://www.homermultitext.org/hmt-digital/index.html?urn=urn:cts:greekLit:tlg0012.tlg001.msA:12.1)
 
 
-## The Problem of Alignment
+## Alignment, CEX, and DUCAT
+
+[DUCAT](https://github.com/Eumaeus/ducat), the “Daughter of Ugarit Citation Alignment Tool” is a “single-page webapp” (that is, no back-end, just double-click the `.html` file and start working) that uses CEX to do *citation* alignment. 
+
+DUCAT is inspired by, and a follow-up to, [Ugarit](http://ugarit.ialigner.com), the citation-alignment tool created by Maryam Foradi, Chiara Palladino, and Tariq Yousef at the University of Leipzig. Ugarit had specific goals. DUCAT’s are different.
 
 - Implicit alignment (prose works) via canonical citation. [Example: John 3.16](https://eumaeus.github.io/uva_cex_ducat/cite-1.15.0.html?urn=urn:cts:greekLit:tlg0031.tlg004.wh_fu:3.16)
 - Alignment of Poetry: a hard example.
