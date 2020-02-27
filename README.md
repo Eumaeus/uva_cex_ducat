@@ -2,6 +2,18 @@
 
 This site is published at <https://eumaeus.github.io/uva_cex_ducat/>.
 
+## What is CEX?
+
+
+
+## Some Things You Can Do With CEX
+
+- Generate a facsimile view of an edited manuscript
+- Generate a reader’s view of a text with syntactic documentation
+- Generate a reader’s view of a text using machine-parsing
+- Provide a dynamic online web-app for browsing and analysis
+
+
 ## The Problem of Alignment
 
 - Implicit alignment (prose works) via canonical citation. [Example: John 3.16](https://eumaeus.github.io/uva_cex_ducat/cite-1.15.0.html?urn=urn:cts:greekLit:tlg0031.tlg004.wh_fu:3.16)
@@ -13,11 +25,7 @@ This site is published at <https://eumaeus.github.io/uva_cex_ducat/>.
 - Alignment of Text to Commentary Text
 	- [Weakness of existing UI](https://eumaeus.github.io/uva_cex_ducat/ducats/epictetus.html?urn=urn:cts:greekLit:tlg0557.tlg001.perseus-grc1:1.1-4.12&urn=urn:cts:greekLit:tlg0557.tlg002.perseus-grc1:1-20&urn=)
 	- [A better view](https://eumaeus.github.io/uva_cex_ducat/ducats/epictetus.html)
-	- [A code notebook might be the better way]()
+	- [A code notebook might be the better way](https://hub-binder.mybinder.ovh/user/eumaeus-fucite-jupyter-iwl2r94p/notebooks/alignment/sandbox.ipynb). The good stuff is at the bottom! (If asked to set a kernel, choose "Scala 2.12") 
 
-## DUCAT Examples
+	The DUCAT Tool is merely one method for creating alignments, and merely one way to view them. With an aligned texts, in CEX format, you could, for example, create a [dynamic lexicon](https://hub-binder.mybinder.ovh/user/eumaeus-fucite-jupyter-iwl2r94p/notebooks/alignment/sandbox2.ipynb). The good stuff is at the bottom! (If asked to set a kernel, choose "Scala 2.12")
 
-- [Passage alignment from *Iliad* 5 (pre-loaded)](https://eumaeus.github.io/uva_cex_ducat/ducats/iliad_example.html?urn=urn:cts:greekLit:tlg0012.tlg001.allen:5&urn=urn:cts:fufolio:pope.iliad.fu2019:5&urn=)
-- [What the data looks like](https://github.com/Eumaeus/uva_cex_ducat/blob/master/cex/Pope_Allen_Verse1.cex)
-- [Word-level alignment from Apuleius](file:///Users/cblackwell/Desktop/uva_cex/ducats/aristotle_poetics.html?urn=urn:cts:latinLit:phi1212.phi002.chin.token:3.16&urn=aristotle_poetics.html?urn=urn:cts:latinLit:phi1212.phi002.chin.token:3.16&urn=).
-- [Mixed alignment: Epictetus]().
