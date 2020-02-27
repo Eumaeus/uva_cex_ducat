@@ -4,7 +4,7 @@ This site is published at <https://eumaeus.github.io/uva_cex_ducat/>.
 
 ## The Problem of Alignment
 
-- Implicit alignment (prose works) via canonical citation. [Example: John 3.16](file:///Users/cblackwell/Desktop/uva_cex/cite-1.15.0.html)
+- Implicit alignment (prose works) via canonical citation. [Example: John 3.16](https://eumaeus.github.io/uva_cex_ducat/cite-1.15.0.html?urn=urn:cts:greekLit:tlg0031.tlg004.wh_fu:3.16)
 - Alignment of Poetry: a hard example.
 	- [Greek *Iliad* 5.655-5.667 with Pope’s *Iliad*, Book 5, stanzas 68 and (part of 69)](https://eumaeus.github.io/uva_cex_ducat/ducats/iliad_example.html?urn=urn:cts:greekLit:tlg0012.tlg001.allen:5&urn=urn:cts:fufolio:pope.iliad.fu2019:5.68-5.69.9&urn=)
 - Translation Alignment:
