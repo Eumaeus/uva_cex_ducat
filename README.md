@@ -6,6 +6,10 @@ This site is published at <https://eumaeus.github.io/uva_cex_ducat/>.
 
 CEX, the CITE Exchange Format, is a plain-text, self-describing format for serializing data from a CITE library: texts, collections, data-models, and indices. It is equally useful for small data and very large data. The [CITE Architecture](http://cite-architecture.org) includes [(very well tested) code](https://cite-architecture.github.io/cite-api-docs/) for ingesting CEX, among other things.
 
+## What About TEI?
+
+CEX is a complement to TEI-XML. It should be entirely possible to move data back and forth between the two formats. TEI users might be interested in [Thomas Köntges’ TEItoCEX tool.](https://github.com/ThomasK81/TEItoCEX)
+
 ## Some Things You Can Do With CEX
 
 - [Generate a facsimile view of an edited manuscript](https://www.homermultitext.org/facsimiles/venetus-a-2020/pages/urn_cite2_hmt_msA-v1_154v.html)
