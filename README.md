@@ -4,7 +4,9 @@ This site is published at <https://eumaeus.github.io/uva_cex_ducat/>.
 
 ## What is CEX?
 
-[The Spec.](https://cite-architecture.github.io/citedx/CEX-spec-3.0.2/) [The API for a Scala library.](https://cite-architecture.github.io/cite-api-docs/cex/api/edu/holycross/shot/cex/index.html)
+[The Spec.](https://cite-architecture.github.io/citedx/CEX-spec-3.0.2/) 
+
+[The API for a Scala library.](https://cite-architecture.github.io/cite-api-docs/cex/api/edu/holycross/shot/cex/index.html)
 
 CEX, the CITE Exchange Format, is a plain-text, self-describing format for serializing data from a CITE library: texts, collections, data-models, and indices. It is equally useful for small data and very large data. The [CITE Architecture](http://cite-architecture.org) includes [(very well tested) code](https://cite-architecture.github.io/cite-api-docs/) for ingesting CEX, among other things.
 
